@@ -7,6 +7,8 @@ AudioNarrator is a project leveraging AWS services to convert text files (such a
 3. Stores the generated audio files in a designated S3 bucket.
 4. Supports both authenticated and unauthenticated user access (via Cognito).
 
+# Project Architecture:
+
 # Use Cases:
 1. Accessibility: Provides audio versions of content for visually impaired users.
 2. Learning: Enables listening to educational materials on the go.
